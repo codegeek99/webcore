@@ -1,0 +1,14 @@
+C:\rajat_workspace\Problem Management\Project\Sherlock\dotnetcore\webapicore01\bin\Debug\netcoreapp2.1\webapicore01.deps.json
+C:\rajat_workspace\Problem Management\Project\Sherlock\dotnetcore\webapicore01\bin\Debug\netcoreapp2.1\webapicore01.runtimeconfig.json
+C:\rajat_workspace\Problem Management\Project\Sherlock\dotnetcore\webapicore01\bin\Debug\netcoreapp2.1\webapicore01.runtimeconfig.dev.json
+C:\rajat_workspace\Problem Management\Project\Sherlock\dotnetcore\webapicore01\bin\Debug\netcoreapp2.1\webapicore01.dll
+C:\rajat_workspace\Problem Management\Project\Sherlock\dotnetcore\webapicore01\bin\Debug\netcoreapp2.1\webapicore01.pdb
+C:\rajat_workspace\Problem Management\Project\Sherlock\dotnetcore\webapicore01\obj\Debug\netcoreapp2.1\webapicore01.csprojAssemblyReference.cache
+C:\rajat_workspace\Problem Management\Project\Sherlock\dotnetcore\webapicore01\obj\Debug\netcoreapp2.1\webapicore01.csproj.CoreCompileInputs.cache
+C:\rajat_workspace\Problem Management\Project\Sherlock\dotnetcore\webapicore01\obj\Debug\netcoreapp2.1\webapicore01.RazorAssemblyInfo.cache
+C:\rajat_workspace\Problem Management\Project\Sherlock\dotnetcore\webapicore01\obj\Debug\netcoreapp2.1\webapicore01.RazorAssemblyInfo.cs
+C:\rajat_workspace\Problem Management\Project\Sherlock\dotnetcore\webapicore01\obj\Debug\netcoreapp2.1\webapicore01.AssemblyInfoInputs.cache
+C:\rajat_workspace\Problem Management\Project\Sherlock\dotnetcore\webapicore01\obj\Debug\netcoreapp2.1\webapicore01.AssemblyInfo.cs
+C:\rajat_workspace\Problem Management\Project\Sherlock\dotnetcore\webapicore01\obj\Debug\netcoreapp2.1\webapicore01.RazorTargetAssemblyInfo.cache
+C:\rajat_workspace\Problem Management\Project\Sherlock\dotnetcore\webapicore01\obj\Debug\netcoreapp2.1\webapicore01.dll
+C:\rajat_workspace\Problem Management\Project\Sherlock\dotnetcore\webapicore01\obj\Debug\netcoreapp2.1\webapicore01.pdb
